@@ -7,8 +7,8 @@
 #include <cmath>
 #include <time.h>
 
-
-class Lightning {
+//Scene 0
+class Lightning { 
 public:
     sf::RectangleShape shape;
     sf::Clock blinkClock, lifeClock;
@@ -116,6 +116,7 @@ public:
     }
 };
 
+//Scene 1
 class Laser {
 public:
     std::vector<sf::VertexArray> lines;
@@ -156,7 +157,7 @@ public:
         }
     }
 };
-
+//Scene 2
 class Pointer {
 public:
     sf::VertexArray line;
@@ -199,7 +200,7 @@ public:
         window.draw(line);
     }
 };
-
+//Scene 3
 class Tripad {
 public:
     std::vector<sf::ConvexShape> triangles;
@@ -268,7 +269,7 @@ int main() {
 
 
     // Display Switch
-    int Mode = 3; // Start Mode indicator
+    int Mode = 0; // Start Mode indicator
     int ModeNum = 3; // Number of Modes
     bool first_enter = true;
     int ModeTime = 15; //Mode Switch Time

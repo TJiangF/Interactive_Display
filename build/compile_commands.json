@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/tf/Documents/Projects/Interactive_Display/build",
+  "command": "/usr/bin/clang++ -isystem /opt/homebrew/include -O3 -DNDEBUG -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -std=gnu++17 -o CMakeFiles/Display.dir/X_Display_main.cpp.o -c /Users/tf/Documents/Projects/Interactive_Display/X_Display_main.cpp",
+  "file": "/Users/tf/Documents/Projects/Interactive_Display/X_Display_main.cpp"
+}
+]

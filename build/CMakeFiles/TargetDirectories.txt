@@ -1,0 +1,3 @@
+/Users/tf/Documents/Projects/Interactive_Display/build/CMakeFiles/Display.dir
+/Users/tf/Documents/Projects/Interactive_Display/build/CMakeFiles/edit_cache.dir
+/Users/tf/Documents/Projects/Interactive_Display/build/CMakeFiles/rebuild_cache.dir
