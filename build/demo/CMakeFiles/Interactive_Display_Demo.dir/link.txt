@@ -1,3 +1,0 @@
-C:\Tools\cmake-3.25.1-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\Interactive_Display_Demo.dir/objects.a
-C:\Tools\mingw64_2\mingw64\bin\ar.exe qc CMakeFiles\Interactive_Display_Demo.dir/objects.a @CMakeFiles\Interactive_Display_Demo.dir\objects1
-C:\Tools\mingw64_2\mingw64\bin\g++.exe  -std=c++11 -g -Wl,--whole-archive CMakeFiles\Interactive_Display_Demo.dir/objects.a -Wl,--no-whole-archive -o ..\Interactive_Display_Demo.exe -Wl,--out-implib,..\libInteractive_Display_Demo.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Interactive_Display_Demo.dir\linkLibs.rsp
