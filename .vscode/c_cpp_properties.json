@@ -1,22 +1,20 @@
 {
     "configurations": [
         {
-            "name": "Mac",
+            "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**",
-                // "${workspaceFolder}/include",
-                // "/opt/homebrew/Cellar/sfml/2.6.1/include",
-                // "/opt/homebrew/Cellar/sfml/2.6.1/lib",
-                "/opt/homebrew/Cellar/sfml/2.6.1"
+                "${workspaceFolder}/**"
             ],
-            "defines": [],
-            "macFrameworkPath": [
-                "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
             ],
-            "compilerPath": "/usr/bin/clang",
+            "windowsSdkVersion": "10.0.19041.0",
+            "compilerPath": "C:/Tools/mingw64_2/mingw64/bin/g++.exe",
             "cStandard": "c17",
             "cppStandard": "c++17",
-            "intelliSenseMode": "macos-clang-arm64",
+            "intelliSenseMode": "windows-gcc-x64",
             "configurationProvider": "ms-vscode.cmake-tools"
         }
     ],

@@ -1,18 +1,23 @@
 # Interactive_Display
 
 ## Inspiration
-The interactive Cube in NYC and try to rebuild it by a more interesting way and acceptable budgets.
+The interactive Cube in NYC and try to rebuild it.
 
 ## Environments
-All platform + VSCode + SMFL Library + mingw
+All platform + VSCode + SMFL Library + mingw + YDlidarSDK
 
 ## Setup
-- 360° Lidar
+- 2D Lidar (YDLidar X2)
 - TTL converter
-- Host
+- Host PC
 - Display
 
-## Other
-To be determined
-
-## Manual 
+## Manual Book
+- 1. Set up the SFML Lib and add it to the environment Path
+- 2. Build the project with Compiler
+- 3. connect the lidar with host with a TTL converter
+- 4. Type the COM port that the Lidar is using
+- 5. Set up all the parameters needed for the Display
+- 6. Calibrate 4 corners
+- 7. Select Confirm
+- 8. Start Demo

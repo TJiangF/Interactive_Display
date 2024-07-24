@@ -1,0 +1,32 @@
+CMakeFiles/ydlidar_sdk.dir/core/common/ydlidar_def.cpp.obj: \
+ D:\Project\lidar_control\lidarsdk\SDK-X2\YDLidar-SDK-master\core\common\ydlidar_def.cpp \
+ D:/Project/lidar_control/lidarsdk/SDK-X2/YDLidar-SDK-master/core/common/ydlidar_def.h \
+ C:/Tools/mingw64_2/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdint.h \
+ C:/Tools/mingw64_2/mingw64/x86_64-w64-mingw32/include/stdint.h \
+ C:/Tools/mingw64_2/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ C:/Tools/mingw64_2/mingw64/x86_64-w64-mingw32/include/corecrt.h \
+ C:/Tools/mingw64_2/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+ C:/Tools/mingw64_2/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ C:/Tools/mingw64_2/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ C:/Tools/mingw64_2/mingw64/x86_64-w64-mingw32/include/vadefs.h \
+ C:/Tools/mingw64_2/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ C:/Tools/mingw64_2/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h \
+ C:/Tools/mingw64_2/mingw64/x86_64-w64-mingw32/include/stddef.h \
+ C:/Tools/mingw64_2/mingw64/include/c++/13.1.0/stdlib.h \
+ C:/Tools/mingw64_2/mingw64/include/c++/13.1.0/cstdlib \
+ C:/Tools/mingw64_2/mingw64/include/c++/13.1.0/x86_64-w64-mingw32/bits/c++config.h \
+ C:/Tools/mingw64_2/mingw64/include/c++/13.1.0/x86_64-w64-mingw32/bits/os_defines.h \
+ C:/Tools/mingw64_2/mingw64/include/c++/13.1.0/x86_64-w64-mingw32/bits/cpu_defines.h \
+ C:/Tools/mingw64_2/mingw64/x86_64-w64-mingw32/include/stdlib.h \
+ C:/Tools/mingw64_2/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+ C:/Tools/mingw64_2/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h \
+ C:/Tools/mingw64_2/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h \
+ C:/Tools/mingw64_2/mingw64/x86_64-w64-mingw32/include/limits.h \
+ C:/Tools/mingw64_2/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+ C:/Tools/mingw64_2/mingw64/x86_64-w64-mingw32/include/malloc.h \
+ C:/Tools/mingw64_2/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h \
+ C:/Tools/mingw64_2/mingw64/x86_64-w64-mingw32/include/errno.h \
+ C:/Tools/mingw64_2/mingw64/include/c++/13.1.0/bits/std_abs.h \
+ D:/Project/lidar_control/lidarsdk/SDK-X2/YDLidar-SDK-master/core/base/typedef.h \
+ C:/Tools/mingw64_2/mingw64/x86_64-w64-mingw32/include/string.h \
+ C:/Tools/mingw64_2/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h

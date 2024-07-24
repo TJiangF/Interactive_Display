@@ -1,7 +1,67 @@
 [
 {
-  "directory": "/Users/tf/Documents/Projects/Interactive_Display/build",
-  "command": "/usr/bin/clang++ -isystem /opt/homebrew/include -O3 -DNDEBUG -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -std=gnu++17 -o CMakeFiles/Display.dir/X_Display_main.cpp.o -c /Users/tf/Documents/Projects/Interactive_Display/X_Display_main.cpp",
-  "file": "/Users/tf/Documents/Projects/Interactive_Display/X_Display_main.cpp"
+  "directory": "D:/Project/lidar_control/lidarsdk/SDK-X2/YDLidar-SDK-master/build",
+  "command": "C:\\Tools\\mingw64_2\\mingw64\\bin\\g++.exe  @CMakeFiles/ydlidar_sdk.dir/includes_CXX.rsp  -std=c++11 -g -fPIC -o CMakeFiles\\ydlidar_sdk.dir\\core\\base\\timer.cpp.obj -c D:\\Project\\lidar_control\\lidarsdk\\SDK-X2\\YDLidar-SDK-master\\core\\base\\timer.cpp",
+  "file": "D:/Project/lidar_control/lidarsdk/SDK-X2/YDLidar-SDK-master/core/base/timer.cpp"
+},
+{
+  "directory": "D:/Project/lidar_control/lidarsdk/SDK-X2/YDLidar-SDK-master/build",
+  "command": "C:\\Tools\\mingw64_2\\mingw64\\bin\\g++.exe  @CMakeFiles/ydlidar_sdk.dir/includes_CXX.rsp  -std=c++11 -g -fPIC -o CMakeFiles\\ydlidar_sdk.dir\\core\\common\\ydlidar_def.cpp.obj -c D:\\Project\\lidar_control\\lidarsdk\\SDK-X2\\YDLidar-SDK-master\\core\\common\\ydlidar_def.cpp",
+  "file": "D:/Project/lidar_control/lidarsdk/SDK-X2/YDLidar-SDK-master/core/common/ydlidar_def.cpp"
+},
+{
+  "directory": "D:/Project/lidar_control/lidarsdk/SDK-X2/YDLidar-SDK-master/build",
+  "command": "C:\\Tools\\mingw64_2\\mingw64\\bin\\g++.exe  @CMakeFiles/ydlidar_sdk.dir/includes_CXX.rsp  -std=c++11 -g -fPIC -o CMakeFiles\\ydlidar_sdk.dir\\core\\network\\ActiveSocket.cpp.obj -c D:\\Project\\lidar_control\\lidarsdk\\SDK-X2\\YDLidar-SDK-master\\core\\network\\ActiveSocket.cpp",
+  "file": "D:/Project/lidar_control/lidarsdk/SDK-X2/YDLidar-SDK-master/core/network/ActiveSocket.cpp"
+},
+{
+  "directory": "D:/Project/lidar_control/lidarsdk/SDK-X2/YDLidar-SDK-master/build",
+  "command": "C:\\Tools\\mingw64_2\\mingw64\\bin\\g++.exe  @CMakeFiles/ydlidar_sdk.dir/includes_CXX.rsp  -std=c++11 -g -fPIC -o CMakeFiles\\ydlidar_sdk.dir\\core\\network\\PassiveSocket.cpp.obj -c D:\\Project\\lidar_control\\lidarsdk\\SDK-X2\\YDLidar-SDK-master\\core\\network\\PassiveSocket.cpp",
+  "file": "D:/Project/lidar_control/lidarsdk/SDK-X2/YDLidar-SDK-master/core/network/PassiveSocket.cpp"
+},
+{
+  "directory": "D:/Project/lidar_control/lidarsdk/SDK-X2/YDLidar-SDK-master/build",
+  "command": "C:\\Tools\\mingw64_2\\mingw64\\bin\\g++.exe  @CMakeFiles/ydlidar_sdk.dir/includes_CXX.rsp  -std=c++11 -g -fPIC -o CMakeFiles\\ydlidar_sdk.dir\\core\\network\\SimpleSocket.cpp.obj -c D:\\Project\\lidar_control\\lidarsdk\\SDK-X2\\YDLidar-SDK-master\\core\\network\\SimpleSocket.cpp",
+  "file": "D:/Project/lidar_control/lidarsdk/SDK-X2/YDLidar-SDK-master/core/network/SimpleSocket.cpp"
+},
+{
+  "directory": "D:/Project/lidar_control/lidarsdk/SDK-X2/YDLidar-SDK-master/build",
+  "command": "C:\\Tools\\mingw64_2\\mingw64\\bin\\g++.exe  @CMakeFiles/ydlidar_sdk.dir/includes_CXX.rsp  -std=c++11 -g -fPIC -o CMakeFiles\\ydlidar_sdk.dir\\core\\serial\\serial.cpp.obj -c D:\\Project\\lidar_control\\lidarsdk\\SDK-X2\\YDLidar-SDK-master\\core\\serial\\serial.cpp",
+  "file": "D:/Project/lidar_control/lidarsdk/SDK-X2/YDLidar-SDK-master/core/serial/serial.cpp"
+},
+{
+  "directory": "D:/Project/lidar_control/lidarsdk/SDK-X2/YDLidar-SDK-master/build",
+  "command": "C:\\Tools\\mingw64_2\\mingw64\\bin\\g++.exe  @CMakeFiles/ydlidar_sdk.dir/includes_CXX.rsp  -std=c++11 -g -fPIC -o CMakeFiles\\ydlidar_sdk.dir\\core\\serial\\impl\\windows\\list_ports_win.cpp.obj -c D:\\Project\\lidar_control\\lidarsdk\\SDK-X2\\YDLidar-SDK-master\\core\\serial\\impl\\windows\\list_ports_win.cpp",
+  "file": "D:/Project/lidar_control/lidarsdk/SDK-X2/YDLidar-SDK-master/core/serial/impl/windows/list_ports_win.cpp"
+},
+{
+  "directory": "D:/Project/lidar_control/lidarsdk/SDK-X2/YDLidar-SDK-master/build",
+  "command": "C:\\Tools\\mingw64_2\\mingw64\\bin\\g++.exe  @CMakeFiles/ydlidar_sdk.dir/includes_CXX.rsp  -std=c++11 -g -fPIC -o CMakeFiles\\ydlidar_sdk.dir\\core\\serial\\impl\\windows\\win_serial.cpp.obj -c D:\\Project\\lidar_control\\lidarsdk\\SDK-X2\\YDLidar-SDK-master\\core\\serial\\impl\\windows\\win_serial.cpp",
+  "file": "D:/Project/lidar_control/lidarsdk/SDK-X2/YDLidar-SDK-master/core/serial/impl/windows/win_serial.cpp"
+},
+{
+  "directory": "D:/Project/lidar_control/lidarsdk/SDK-X2/YDLidar-SDK-master/build",
+  "command": "C:\\Tools\\mingw64_2\\mingw64\\bin\\g++.exe  @CMakeFiles/ydlidar_sdk.dir/includes_CXX.rsp  -std=c++11 -g -fPIC -o CMakeFiles\\ydlidar_sdk.dir\\src\\CYdLidar.cpp.obj -c D:\\Project\\lidar_control\\lidarsdk\\SDK-X2\\YDLidar-SDK-master\\src\\CYdLidar.cpp",
+  "file": "D:/Project/lidar_control/lidarsdk/SDK-X2/YDLidar-SDK-master/src/CYdLidar.cpp"
+},
+{
+  "directory": "D:/Project/lidar_control/lidarsdk/SDK-X2/YDLidar-SDK-master/build",
+  "command": "C:\\Tools\\mingw64_2\\mingw64\\bin\\g++.exe  @CMakeFiles/ydlidar_sdk.dir/includes_CXX.rsp  -std=c++11 -g -fPIC -o CMakeFiles\\ydlidar_sdk.dir\\src\\ETLidarDriver.cpp.obj -c D:\\Project\\lidar_control\\lidarsdk\\SDK-X2\\YDLidar-SDK-master\\src\\ETLidarDriver.cpp",
+  "file": "D:/Project/lidar_control/lidarsdk/SDK-X2/YDLidar-SDK-master/src/ETLidarDriver.cpp"
+},
+{
+  "directory": "D:/Project/lidar_control/lidarsdk/SDK-X2/YDLidar-SDK-master/build",
+  "command": "C:\\Tools\\mingw64_2\\mingw64\\bin\\g++.exe  @CMakeFiles/ydlidar_sdk.dir/includes_CXX.rsp  -std=c++11 -g -fPIC -o CMakeFiles\\ydlidar_sdk.dir\\src\\ydlidar_driver.cpp.obj -c D:\\Project\\lidar_control\\lidarsdk\\SDK-X2\\YDLidar-SDK-master\\src\\ydlidar_driver.cpp",
+  "file": "D:/Project/lidar_control/lidarsdk/SDK-X2/YDLidar-SDK-master/src/ydlidar_driver.cpp"
+},
+{
+  "directory": "D:/Project/lidar_control/lidarsdk/SDK-X2/YDLidar-SDK-master/build",
+  "command": "C:\\Tools\\mingw64_2\\mingw64\\bin\\g++.exe  @CMakeFiles/ydlidar_sdk.dir/includes_CXX.rsp  -std=c++11 -g -fPIC -o CMakeFiles\\ydlidar_sdk.dir\\src\\ydlidar_sdk.cpp.obj -c D:\\Project\\lidar_control\\lidarsdk\\SDK-X2\\YDLidar-SDK-master\\src\\ydlidar_sdk.cpp",
+  "file": "D:/Project/lidar_control/lidarsdk/SDK-X2/YDLidar-SDK-master/src/ydlidar_sdk.cpp"
+},
+{
+  "directory": "D:/Project/lidar_control/lidarsdk/SDK-X2/YDLidar-SDK-master/build/demo",
+  "command": "C:\\Tools\\mingw64_2\\mingw64\\bin\\g++.exe  @CMakeFiles/Interactive_Display_Demo.dir/includes_CXX.rsp  -std=c++11 -g -fPIC -std=gnu++17 -o CMakeFiles\\Interactive_Display_Demo.dir\\Interactive_Display_Demo.cpp.obj -c D:\\Project\\lidar_control\\lidarsdk\\SDK-X2\\YDLidar-SDK-master\\demo\\Interactive_Display_Demo.cpp",
+  "file": "D:/Project/lidar_control/lidarsdk/SDK-X2/YDLidar-SDK-master/demo/Interactive_Display_Demo.cpp"
 }
 ]
