@@ -23,6 +23,6 @@ All platform + VSCode + SMFL Library + mingw + YDlidarSDK
 - 8. Start Demo
 
 ## Demo
-- ![Connect the port](doc/setup0.png)
-- ![Sed up the parameters for the Display](doc/setup1.png)
+- ![Connect the port](doc/Setup0.png)
+- ![Sed up the parameters for the Display](doc/Setup1.png)
 - ![demo](doc/demo.gif)
