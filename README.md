@@ -21,3 +21,8 @@ All platform + VSCode + SMFL Library + mingw + YDlidarSDK
 - 6. Calibrate 4 corners
 - 7. Select Confirm
 - 8. Start Demo
+
+## Demo
+- ![Connect the port](doc/setup0.png)
+- ![Sed up the parameters for the Display](doc/setup1.png)
+- ![demo](doc/demo.gif)

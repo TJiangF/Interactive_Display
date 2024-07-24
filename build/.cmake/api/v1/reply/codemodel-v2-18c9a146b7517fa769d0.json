@@ -1,0 +1,239 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						9,
+						10
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-b77b45565666a3d27384.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1,
+						2
+					]
+				},
+				{
+					"build" : "core",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5,
+						6
+					],
+					"jsonFile" : "directory-core-Release-e3757ce4a321da3133c4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "core"
+				},
+				{
+					"build" : "core/base",
+					"jsonFile" : "directory-core.base-Release-de47f11457c2ab4da0d9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "core/base"
+				},
+				{
+					"build" : "core/common",
+					"jsonFile" : "directory-core.common-Release-26c0bb7d6645978fac3a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "core/common"
+				},
+				{
+					"build" : "core/math",
+					"jsonFile" : "directory-core.math-Release-6a4d28d1478ee297f7af.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "core/math"
+				},
+				{
+					"build" : "core/network",
+					"jsonFile" : "directory-core.network-Release-aca1dc880dcd42433103.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "core/network"
+				},
+				{
+					"build" : "core/serial",
+					"childIndexes" : 
+					[
+						7
+					],
+					"jsonFile" : "directory-core.serial-Release-f66c31c5ccea9cd77a87.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "core/serial"
+				},
+				{
+					"build" : "core/serial/impl",
+					"childIndexes" : 
+					[
+						8
+					],
+					"jsonFile" : "directory-core.serial.impl-Release-dcbd5a5493cc8660750e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 0,
+					"source" : "core/serial/impl"
+				},
+				{
+					"build" : "core/serial/impl/windows",
+					"jsonFile" : "directory-core.serial.impl.windows-Release-5afb62be3f6a629d3e69.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 7,
+					"projectIndex" : 0,
+					"source" : "core/serial/impl/windows"
+				},
+				{
+					"build" : "src",
+					"jsonFile" : "directory-src-Release-c94b7c2814d5a21df52c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src"
+				},
+				{
+					"build" : "demo",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-demo-Release-06be165e9d2fdfb6c722.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "demo",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					],
+					"name" : "ydlidar_sdk",
+					"targetIndexes" : 
+					[
+						1,
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						10
+					],
+					"name" : "Interactive_Display_Demo",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 10,
+					"id" : "Interactive_Display_Demo::@7f23e6ca181cc91d5724",
+					"jsonFile" : "target-Interactive_Display_Demo-Release-278313fcc3aca079f876.json",
+					"name" : "Interactive_Display_Demo",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Release-d05f7372efef617f8f66.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ydlidar_sdk::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ydlidar_sdk-Release-2015ca60307ffd131fe3.json",
+					"name" : "ydlidar_sdk",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Project/lidar_control/lidarsdk/SDK-X2/Interactive_Display/build",
+		"source" : "D:/Project/lidar_control/lidarsdk/SDK-X2/Interactive_Display"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
